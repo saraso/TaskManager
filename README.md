@@ -1,1 +1,1 @@
-This is my first java project
+This is a task manager application for everyday use.
